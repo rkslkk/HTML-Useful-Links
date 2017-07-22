@@ -1,0 +1,38 @@
+html {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.headers {
+    background-image: url(https://images6.alphacoders.com/355/355532.jpg);
+    background-size: cover;
+    height: 600px;
+    background-position: center;
+}
+
+#heading-text {
+    margin: 0;
+    text-align: center;
+    top: 25%;
+}
+
+h1 {
+    color: #FFF;
+    font-family: sans-serif;
+    font-size: 70px;
+    font-weight: 400;
+    line-height: 60px;
+    margin: 0;
+}
+
+#firstlink, #secondlink, #thirdlink {
+    font-size: 55px;
+}
+
+.closer {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+    color: rgba(255, 255, 255, 0.5);
+    text-align: center;
+    color: grey;
+}
